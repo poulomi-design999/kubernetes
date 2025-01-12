@@ -1,6 +1,6 @@
-# Advanced Kubernetes Course
+#  Kubernetes Notes
 
-## Course Overview
+## Overview
 
 This course is tailored for learners to master Kubernetes, focusing on in-depth concepts, cluster management, security, networking, storage, and CI/CD integrations. It combines detailed theoretical explanations with practical, hands-on labs for a holistic learning experience.
 
